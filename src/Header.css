@@ -1,0 +1,10 @@
+.header{
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+          padding: 20px;
+}
+
+.logo{
+          color: #FE3C72;
+}
